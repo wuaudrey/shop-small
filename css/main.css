@@ -1,5 +1,10 @@
 body {
   background-color: #fcf;
+  background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400/a4b33886128681.5d909dad47ded.jpg), linear-gradient(#ff0, #ffc);
+  background-repeat: no-repeat;
+  background-position: center 25%;
+  background-attachment: fixed;
+  background-size: rem, 100%;
 }
 
 .wrapper {
