@@ -61,3 +61,56 @@ body {
   grid-row-start: 3;
   grid-row-end: 4;   
 }
+
+.box7 {
+  text-align: center;
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-row-start: 3;
+  grid-row-end: 4;   
+}
+.box8 {
+  text-align: center;
+  grid-column-start: 4;
+  grid-column-end: 4;
+  grid-row-start: 3;
+  grid-row-end: 4; 
+}
+  
+.box9 {
+  text-align: center;
+  grid-column-start: 4;
+  grid-column-end: 4;
+  grid-row-start: 3;
+  grid-row-end: 4;  
+}
+
+.box10 {
+  text-align: center;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 4;
+  grid-row-end: 5;  
+}
+
+.box11 {
+  text-align: center;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 4;
+  grid-row-end: 5;  
+}
+
+.box12 {
+  text-align: center;
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-row-start: 4;
+  grid-row-end: 5; 
+}
+
+
+
+
+
+
