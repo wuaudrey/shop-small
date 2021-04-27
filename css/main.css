@@ -17,8 +17,9 @@ body {
 .box1 {
   text-align: center;
   background-color: white;
+  max-width: 2000px;
   grid-gap: 1rem;
-  padding-top: 1rem;
+  padding-top: 2.5rem;
   grid-column-start: 1;
   grid-column-end: 4;
   grid-row-start: 1;
