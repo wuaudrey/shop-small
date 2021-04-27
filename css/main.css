@@ -7,6 +7,10 @@ body {
   background-size: 100rem, 100%;
 }
 
+@media (min-width: 600px) {
+  .wrapper { grid-template-columns: repeat(2, 1fr); }
+}
+
 .wrapper {
   width: 500px;
   display: inline-grid;
