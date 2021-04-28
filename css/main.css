@@ -19,6 +19,7 @@ body {
   grid-template-columns: 100px 50px 100 px;
   grid-template-rows: 80px auto 80px;
   gap: 10px;
+  align-items: center;
 }
 
 p {
