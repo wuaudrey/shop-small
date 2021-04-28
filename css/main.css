@@ -38,7 +38,8 @@ a {
 
 .wrapper {
   display: inline-grid;
-  border: 1px solid rgb(255, 255, 255)
+  column-gap: 1em;
+  row-gap: 0em;
   
   width: 1000px;
   margin-left: auto;
