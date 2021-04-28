@@ -47,8 +47,8 @@ a {
   grid-template-rows: auto;
   
   line-height: .3;
-  align-items: center;
   
+  align-items: center;
   justify-content: center;
 }
 
