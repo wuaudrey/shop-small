@@ -40,11 +40,11 @@ a {
   display: inline-grid;
   border: 1px solid rgb(255, 255, 255)
   
-  width: 800px;
+  width: 1000px;
   margin-left: auto;
   margin-right: auto;
   
-  grid-template-columns: 200px 200px 200px 200px;
+  grid-template-columns: 250px 250px 250px 250px;
   grid-template-rows: 100px 100px 100px;
   
   line-height: .3;
