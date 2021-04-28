@@ -40,9 +40,9 @@ a {
   display: inline-grid;
   border: 1px solid rgb(255, 255, 255)
   
-  width: 500px;
-  margin-left: auto;
-  margin-right: auto;
+  width: 800px;
+  margin-left: 10px;
+  margin-right: 10px;
   
   grid-template-columns: 200px 200px 200px 200px;
   grid-template-rows: 100px 100px 100px;
