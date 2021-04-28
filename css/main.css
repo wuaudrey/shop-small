@@ -22,7 +22,7 @@ h2 {
 }
 
 p {
-  font-size: 20px;
+  font-size: 15px;
   text-transform: lowercase;
   font-family: 'Cambay';
   color: white;
@@ -30,7 +30,7 @@ p {
 
 a {
   text-decoration: none;
-  font-size: 20px;
+  font-size: 15px;
   text-transform: lowercase;
   font-family: 'Cambay';
   color: white;
