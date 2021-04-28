@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-  width: 900px;
+  width: 300px;
   display: grid;
   grid-template-columns: 200px 200px 200px;
   grid-auto-rows: 100px;
