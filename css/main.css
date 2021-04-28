@@ -33,12 +33,11 @@ p {
 .wrapper {
   width: 500px;
   display: inline-grid;
-  grid-template-columns: 150px 150px 150px 150px;
-  grid-template-rows: 80px auto 80px;
+  grid-template-columns: 150px;
+  grid-template-rows: 150px;
   grid-gap: 10px;
   align-items: center;
-  justify-content: stretch;
-  grid-line: 1px solid white;
+  justify-content: center;
 }
 
 .box1 {
