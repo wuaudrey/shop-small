@@ -47,8 +47,8 @@ a {
   row-gap: 0em;
   
   width: 1000px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
   
   grid-template-columns: 250px 250px 250px 250px;
   grid-template-rows: 100px 100px 100px;
