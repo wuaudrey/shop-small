@@ -1,5 +1,5 @@
 body {
-  background-color: #fff;
+  background-color: #fcf;
   background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400/a4b33886128681.5d909dad47ded.jpg), linear-gradient(#ff0, #ffc);
   background-repeat: no-repeat;
   background-position: center 100%;
@@ -30,6 +30,7 @@ p {
   grid-column-end: 4;
   grid-row-start: 1;
   grid-row-end: 2;
+  background-color: #ffffff00;
 }
 
 .box2 {
@@ -38,6 +39,7 @@ p {
   grid-column-end: 2;
   grid-row-start: 2;
   grid-row-end: 3;
+  background-color: white;
 }
 
 .box3 {
@@ -45,7 +47,8 @@ p {
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 2;
-  grid-row-end: 3;   
+  grid-row-end: 3;  
+  background-color: white;
 }
 
 .box4 {
@@ -53,7 +56,8 @@ p {
   grid-column-start: 3;
   grid-column-end: 4;
   grid-row-start: 2;
-  grid-row-end: 3;   
+  grid-row-end: 3;
+  background-color: white;
 }
 
 .box5 {
@@ -61,7 +65,8 @@ p {
   grid-column-start: 4;
   grid-column-end: 5;
   grid-row-start: 2;
-  grid-row-end: 3;   
+  grid-row-end: 3;  
+  background-color: white;
 }
 
 .box6 {
@@ -70,6 +75,7 @@ p {
   grid-column-end: 2;
   grid-row-start: 3;
   grid-row-end: 4;   
+  background-color: white;
 }
 
 .box7 {
@@ -77,7 +83,8 @@ p {
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 3;
-  grid-row-end: 4;   
+  grid-row-end: 4;  
+  background-color: white;
 }
 .box8 {
   text-align: center;
@@ -85,6 +92,7 @@ p {
   grid-column-end: 4;
   grid-row-start: 3;
   grid-row-end: 4; 
+  background-color: white;
 }
   
 .box9 {
@@ -93,6 +101,7 @@ p {
   grid-column-end: 5;
   grid-row-start: 3;
   grid-row-end: 4;  
+  background-color: white;
 }
 
 .box10 {
@@ -100,7 +109,8 @@ p {
   grid-column-start: 1;
   grid-column-end: 2;
   grid-row-start: 4;
-  grid-row-end: 5;  
+  grid-row-end: 5; 
+  background-color: white;
 }
 
 .box11 {
@@ -109,6 +119,7 @@ p {
   grid-column-end: 3;
   grid-row-start: 4;
   grid-row-end: 5;  
+  background-color: white;
 }
 
 .box12 {
@@ -117,6 +128,7 @@ p {
   grid-column-end: 4;
   grid-row-start: 4;
   grid-row-end: 5; 
+  background-color: white;
 }
 
 .box13 {
@@ -124,7 +136,8 @@ p {
   grid-column-start: 4;
   grid-column-end: 5;
   grid-row-start: 4;
-  grid-row-end: 5; 
+  grid-row-end: 5;
+  background-color: white;
 }
 
 
