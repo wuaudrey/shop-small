@@ -18,6 +18,18 @@ h1 {
   color: white;
 }
 
+h2 {
+  font-size: 20px;
+  text-transform: uppercase;
+  font-family: 'Cambay';
+}
+
+p {
+  font-size: 10px;
+  text-transform: lowercase;
+  font-family: 'Cambay';
+}
+
 .wrapper {
   width: 500px;
   display: inline-grid;
