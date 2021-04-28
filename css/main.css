@@ -18,6 +18,10 @@ body {
   grid-auto-rows: 100px;
 }
 
+p {
+  font: sans-serif;
+}
+
 .box1 {
   font-family: 'Acme';font-size: 22px;
   text-transform: uppercase;
