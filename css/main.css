@@ -4,12 +4,8 @@ body {
   background-repeat: no-repeat;
   background-position: center 100%;
   background-attachment: fixed;
-  background-size: 100rem, 100%;
+  background-size: 80rem, 100%;
 }
-
-.grid-line{
-    border: 1 px solid black;
-  }
 
 h1 {
   font-family: 'Acme';font-size: 40px;
