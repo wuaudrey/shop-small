@@ -23,9 +23,10 @@ h1 {
   display: inline-grid;
   grid-template-columns: 150px 150px 150px 150px;
   grid-template-rows: 80px auto 80px;
-  gap: 10px;
+  grid-gap: 10px;
   align-items: center;
   justify-content: stretch;
+  grid-line: 1px solid white;
 }
 
 .box1 {
