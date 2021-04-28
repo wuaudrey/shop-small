@@ -19,6 +19,8 @@ body {
 }
 
 .box1 {
+  font-family: 'Acme';font-size: 22px;
+  text-transform: uppercase;
   text-align: center;
   grid-column-start: 1;
   grid-column-end: 4;
