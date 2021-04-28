@@ -47,7 +47,7 @@ p {
 
 .box1 {
   text-align: center;
-  background-color: white;
+  border: 2px solid white;
   max-width: 2000px;
   padding-top: 1rem;
   grid-gap: 1rem;
@@ -59,7 +59,7 @@ p {
 
 .box2 {
   text-align: center;
-  background-color: white;
+  border: 2px solid white;
   max-width: 2000px;
   padding-top: 1rem;
   grid-gap: 1rem;
@@ -71,7 +71,7 @@ p {
 
 .box3 { 
   text-align: center;
-  background-color: white;
+  border: 2px solid white;
   max-width: 2000px;
   padding-top: 1rem;
   grid-gap: 1rem;
@@ -83,7 +83,7 @@ p {
 
 .box4 {
   text-align: center;
-  background-color: white;
+  border: 2px solid white;
   max-width: 2000px;
   padding-top: 1rem;
   grid-gap: 1rem;
@@ -95,7 +95,7 @@ p {
 
 .box5 {
   text-align: center;
-  background-color: white;
+  border: 2px solid white;
   max-width: 2000px;
   padding-top: 1rem;
   grid-gap: 1rem;
@@ -107,7 +107,7 @@ p {
 
 .box6 {
   text-align: center;
-  background-color: white;
+  border: 2px solid white;
   max-width: 2000px;
   padding-top: 1rem;
   grid-gap: 1rem;
@@ -118,7 +118,7 @@ p {
 }
 .box7 {
   text-align: center;
-  background-color: white;
+  border: 2px solid white;
   max-width: 2000px;
   padding-top: 1rem;
   grid-gap: 1rem;
@@ -130,7 +130,7 @@ p {
   
 .box8 {
   text-align: center;
-  background-color: white;
+  border: 2px solid white;
   max-width: 2000px;
   padding-top: 1rem;
   grid-gap: 1rem;
@@ -142,7 +142,7 @@ p {
 
 .box9 {
   text-align: center;
-  background-color: white;
+  border: 2px solid white;
   max-width: 2000px;
   padding-top: 1rem;
   grid-gap: 1rem;
@@ -154,7 +154,7 @@ p {
 
 .box10 {
   text-align: center;
-  background-color: white;
+  border: 2px solid white;
   max-width: 2000px;
   padding-top: 1rem;
   grid-gap: 1rem;
@@ -166,7 +166,7 @@ p {
 
 .box11 {
   text-align: center;
-  background-color: white;
+  border: 2px solid white;
   max-width: 2000px;
   padding-top: 1rem;
   grid-gap: 1rem;
@@ -178,7 +178,7 @@ p {
 
 .box12 {
   text-align: center;
-  background-color: white;
+  border: 2px solid white;
   max-width: 2000px;
   padding-top: 1rem;
   grid-gap: 1rem;
