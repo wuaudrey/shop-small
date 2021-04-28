@@ -48,6 +48,11 @@ a {
   
   line-height: .3;
   align-items: center;
+  
+  justify-content: space-evenly;
+  justify-items: center;
+  align-content: space-evenly;
+  align-items: center;
 }
 
 .box1 {
