@@ -67,7 +67,7 @@ a {
 .box2 {
   text-align: center;
   border: 1px solid white;
-  max-width: 2000px;
+  max-width: 200px;
   padding-top: .5rem;
   padding-bottom: .5rem;
   grid-column-start: 2;
@@ -79,7 +79,7 @@ a {
 .box3 {
   text-align: center;
   border: 1px solid white;
-  max-width: 2000px;
+  max-width: 200px;
   padding-top: .5rem;
   padding-bottom: .5rem;
   grid-column-start: 3;
@@ -91,7 +91,7 @@ a {
 .box4 {
   text-align: center;
   border: 1px solid white;
-  max-width: 2000px;
+  max-width: 200px;
   padding-top: 1rem;
   grid-column-start: 4;
   grid-column-end: 5;
@@ -102,7 +102,7 @@ a {
 .box5 {
   text-align: center;
   border: 1px solid white;
-  max-width: 2000px;
+  max-width: 200px;
   padding-top: 1rem;
   grid-column-start: 1;
   grid-column-end: 2;
@@ -113,7 +113,7 @@ a {
 .box6 {
   text-align: center;
   border: 1px solid white;
-  max-width: 2000px;
+  max-width: 200px;
   padding-top: 1rem;
   grid-column-start: 2;
   grid-column-end: 3;
@@ -123,7 +123,7 @@ a {
 .box7 {
   text-align: center;
   border: 1px solid white;
-  max-width: 2000px;
+  max-width: 200px;
   padding-top: 1rem;
   grid-column-start: 3;
   grid-column-end: 4;
@@ -134,7 +134,7 @@ a {
 .box8 {
   text-align: center;
   border: 1px solid white;
-  max-width: 2000px;
+  max-width: 200px;
   padding-top: 1rem;
   grid-column-start: 4;
   grid-column-end: 5;
@@ -145,7 +145,7 @@ a {
 .box9 {
   text-align: center;
   border: 1px solid white;
-  max-width: 2000px;
+  max-width: 200px;
   padding-top: 1rem;
   grid-column-start: 1;
   grid-column-end: 2;
@@ -156,7 +156,7 @@ a {
 .box10 {
   text-align: center;
   border: 1px solid white;
-  max-width: 2000px;
+  max-width: 200px;
   padding-top: 1rem;
   grid-column-start: 2;
   grid-column-end: 3;
@@ -167,7 +167,7 @@ a {
 .box11 {
   text-align: center;
   border: 1px solid white;
-  max-width: 2000px;
+  max-width: 200px;
   padding-top: 1rem;
   grid-column-start: 3;
   grid-column-end: 4;
@@ -178,7 +178,7 @@ a {
 .box12 {
   text-align: center;
   border: 1px solid white;
-  max-width: 2000px;
+  max-width: 200px;
   padding-top: 1rem;
   grid-column-start: 4;
   grid-column-end: 5;
