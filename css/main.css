@@ -43,7 +43,7 @@ a {
 
 .wrapper {
   display: inline-grid;
-  column-gap: 1em;
+  column-gap: .5em;
   row-gap: 0em;
   
   width: 1000px;
