@@ -30,6 +30,7 @@ p {
   text-transform: lowercase;
   font-family: 'Cambay';
   color: white;
+  text-decoration: none;
 }
 
 .wrapper {
