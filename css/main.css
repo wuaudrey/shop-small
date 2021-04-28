@@ -56,8 +56,8 @@ a {
 .box1 {
   text-align: center;
   border: 1px solid white;
-  padding-top: .5rem;
-  padding-bottom: .5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   padding-left: .5rem;
   padding-right: .5rem;
   grid-column-start: 1;
@@ -70,8 +70,8 @@ a {
   text-align: center;
   border: 1px solid white;
   max-width: 200px;
-  padding-top: .5rem;
-  padding-bottom: .5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   padding-left: .5rem;
   padding-right: .5rem;
   grid-column-start: 2;
@@ -84,8 +84,8 @@ a {
   text-align: center;
   border: 1px solid white;
   max-width: 200px;
-  padding-top: .5rem;
-  padding-bottom: .5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   padding-left: .5rem;
   padding-right: .5rem;
   grid-column-start: 3;
@@ -98,8 +98,8 @@ a {
   text-align: center;
   border: 1px solid white;
   max-width: 200px;
-  padding-top: .5rem;
-  padding-bottom: .5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   padding-left: .5rem;
   padding-right: .5rem;
   grid-column-start: 4;
@@ -112,8 +112,8 @@ a {
   text-align: center;
   border: 1px solid white;
   max-width: 200px;
-  padding-top: .5rem;
-  padding-bottom: .5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   padding-left: .5rem;
   padding-right: .5rem;
   grid-column-start: 1;
@@ -127,7 +127,7 @@ a {
   border: 1px solid white;
   max-width: 200px;
   padding-top: 1rem;
-  padding-bottom: .5rem;
+  padding-bottom: 1rem;
   padding-left: .5rem;
   padding-right: .5rem;
   grid-column-start: 2;
@@ -140,8 +140,8 @@ a {
   text-align: center;
   border: 1px solid white;
   max-width: 200px;
-  padding-top: .5rem;
-  padding-bottom: .5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   padding-left: .5rem;
   padding-right: .5rem;
   grid-column-start: 3;
@@ -154,8 +154,8 @@ a {
   text-align: center;
   border: 1px solid white;
   max-width: 200px;
-  padding-top: .5rem;
-  padding-bottom: .5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   padding-left: .5rem;
   padding-right: .5rem;
   grid-column-start: 4;
@@ -168,8 +168,8 @@ a {
   text-align: center;
   border: 1px solid white;
   max-width: 200px;
-  padding-top: .5rem;
-   padding-bottom: .5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   padding-left: .5rem;
   padding-right: .5rem;
   grid-column-start: 1;
@@ -182,8 +182,8 @@ a {
   text-align: center;
   border: 1px solid white;
   max-width: 200px;
-  padding-top: .5rem;
-  padding-bottom: .5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   padding-left: .5rem;
   padding-right: .5rem;
   grid-column-start: 2;
@@ -196,8 +196,8 @@ a {
   text-align: center;
   border: 1px solid white;
   max-width: 200px;
-  padding-top: .5rem;
-  padding-bottom: .5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   padding-left: .5rem;
   padding-right: .5rem;
   grid-column-start: 3;
@@ -210,8 +210,8 @@ a {
   text-align: center;
   border: 1px solid white;
   max-width: 200px;
-  padding-top: .5rem;
-  padding-bottom: .5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   padding-left: .5rem;
   padding-right: .5rem;
   grid-column-start: 4;
