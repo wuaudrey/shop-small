@@ -58,13 +58,6 @@ a {
   align-content: center;
   justify-content: center;
 }
-
-@media (min-width: 30em) {
-  body {
-   display: inline-grid;
-    grid-template-columns: auto auto auto auto;
-    grid-gap: 1rem;
-}
   
 .box1 {
   text-align: center;
