@@ -41,7 +41,7 @@ a {
   color: white;
 }
 
-.wrapper {
+.grid {
   display: inline-grid;
   column-gap: .5em;
   row-gap: 0em;
