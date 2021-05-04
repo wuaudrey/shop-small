@@ -33,6 +33,14 @@ h2 {
   color: white;
 }
 
+h3 {
+  font-size: 15px;
+  font-family: 'Cambay';
+  color: white;
+  line-height: 1.5;
+  text-transform: lowercase;
+}
+
 p {
   font-size: 15px;
   font-family: 'Cambay';
