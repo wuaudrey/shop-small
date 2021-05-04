@@ -31,8 +31,8 @@ p {
   text-transform: lowercase;
   font-family: 'Cambay';
   color: white;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 5em;
+  margin-right: 5em;
 }
 
 a {
