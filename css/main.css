@@ -37,6 +37,7 @@ p {
   font-size: 15px;
   font-family: 'Cambay';
   color: white;
+  line-height: 1.5;
 }
 
 a {
@@ -48,7 +49,7 @@ a {
 }
 
 hr {
-    width: 60%;
+    width: 80%;
      margin: auto;
      margin-top: 3px;
      margin-bottom: 5px;
