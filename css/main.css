@@ -48,6 +48,8 @@ p {
   color: white;
   line-height: 1.5;
   text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 a {
