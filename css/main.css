@@ -31,10 +31,17 @@ p {
   text-transform: lowercase;
   font-family: 'Cambay';
   color: white;
+}
+
+description. {
+  font-size: 15px;
+  text-transform: lowercase;
+  font-family: 'Cambay';
+  color: white;
   margin-left: 5em;
   margin-right: 5em;
 }
-
+  
 a {
   text-decoration: none;
   font-size: 15px;
