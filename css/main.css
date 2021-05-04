@@ -33,13 +33,12 @@ p {
   color: white;
 }
 
-description. {
-  font-size: 15px;
-  text-transform: lowercase;
-  font-family: 'Cambay';
-  color: white;
-  margin-left: 5em;
-  margin-right: 5em;
+hr {
+   width: 50%;
+   margin: auto;
+   margin-top: 5%;
+   margin-bottom: 5%;
+   border: 1px solid white
 }
   
 a {
