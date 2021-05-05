@@ -252,6 +252,10 @@ hr {
   grid-row-end: 4; 
 }
 
+img {
+  text-align: center;
+}
+
 * {
   box-sizing: border-box;
 }
