@@ -4,10 +4,7 @@ html {
   padding-top: 20px;
   padding-bottom: 10px;
   box-sizing: border-box;
-}
-
-.description {
-  color: red;
+  display: block;
 }
 
 ul {
@@ -96,7 +93,7 @@ hr {
 .grid {
   display: inline-grid;
   column-gap: .5em;
-  row-gap: 0em;
+  row-gap: .5em;
   
   width: 1000px;
   
@@ -107,10 +104,6 @@ hr {
   
   align-content: center;
   justify-content: center;
-  
-  margin-left: 15em;
-  margin-right: 5em;
-  margin bottom: 5em;
 }
   
 .box1 {
