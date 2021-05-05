@@ -71,6 +71,7 @@ p {
   color: white;
   line-height: 1.5;
   text-align: center;
+  max-width: 900px;
 }
 
 a {
