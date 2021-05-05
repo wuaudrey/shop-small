@@ -273,7 +273,7 @@ img {
 }
 
 .row {
-  flex: 33.3%;
+  display: flex;
   align-content: center;
   justify-content: center; 
   max-width: 100%;
