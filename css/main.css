@@ -285,4 +285,30 @@ img {
   .column {
   width: 100%;
 }
-  
+.rows {
+  display: flex;
+  padding-left: 100px;
+  padding-right: 100px;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  max-width: 900px;
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that sits next to each other */
+.columns {
+  flex: 33.33%;
+  padding: 5px;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  width: 350px;
+  height: 400px;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 100px) {
+  .columns {
+  width: 100%;
+}  
