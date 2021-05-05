@@ -269,6 +269,8 @@ hr {
   flex: 33.33%;
   padding: 0px;
   border: 1.5px solid red;
+  align-content: center;
+  justify-content: center;
 }
 
 @media screen and (max-width: 300px) {
