@@ -5,6 +5,13 @@ html {
   padding-bottom: 10px;
 }
 
+#gallery li {
+  width: 300px;
+  display: inline-block;
+  text-align: center;
+  list-style: none;
+}
+
 body {
   background-color: #fcf;
   background-image: url(https://ak.picdn.net/shutterstock/videos/31137130/thumb/4.jpg), linear-gradient(#ff0, #ffc);
