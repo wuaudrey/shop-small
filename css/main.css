@@ -279,7 +279,7 @@ img {
   text-align: center;
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 100px) {
   .column {
   width: 100%;
 }
