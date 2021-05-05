@@ -281,7 +281,7 @@ hr {
 img {
   display: block;
   box-sizing: border-box;
-  width: 100px;
+  width: 100%;
 }
 
 .row {
