@@ -70,8 +70,6 @@ p {
   color: white;
   line-height: 1.5;
   text-align: center;
-  padding: 0 5%;
-  margin: 0 auto;
 }
 
 a {
@@ -90,7 +88,7 @@ hr {
 }
 
 .grid {
-  display: inline-grid;
+  display: grid;
   
   column-gap: .5em;
   row-gap: .5em;
