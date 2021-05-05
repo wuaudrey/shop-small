@@ -32,7 +32,7 @@ h1 {
 
 h3 {
   font-family: 'Cambay';font-size: 10px;
-  text-transform: uppercase;
+  text-transform: lowercase;
   text-align: center;
   color: white;
 }
