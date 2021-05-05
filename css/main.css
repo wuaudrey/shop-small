@@ -296,7 +296,6 @@ img {
   box-sizing: border-box;
 }
 
-/* Create three equal columns that sits next to each other */
 .columns {
   flex: 33.33%;
   padding: 5px;
@@ -308,7 +307,3 @@ img {
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 100px) {
-  .columns {
-  width: 100%;
-}  
