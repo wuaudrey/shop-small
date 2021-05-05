@@ -22,10 +22,11 @@ body {
 }
 
 h1 {
-  font-family: 'Acme';font-size: 40px;
+  font-family: 'Acme';font-size: 50px;
   text-transform: uppercase;
   text-align: center;
   color: white;
+  padding-bottom: 30px;
 }
 
 h3 {
