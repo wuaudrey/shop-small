@@ -1,8 +1,8 @@
 html {
   font: 100%/1.15 'Cambay';
   scroll-behavior: smooth;
-  padding-top: 40px;
-  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
 
 ul {
@@ -26,7 +26,7 @@ h1 {
   text-transform: uppercase;
   text-align: center;
   color: rgb(255, 98, 26);
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 
 h3 {
