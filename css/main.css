@@ -271,12 +271,11 @@ img {
 
 .row {
   display: flex;
-  padding-left: 250px;
-  padding-right: 100px;
   align-content: center;
   justify-content: center;
   max-width: 900px;
-  margin-bottom: 5px;
+  padding: 0 5%;
+  margin: 0 auto;
 }
 
 /* Create three equal columns that sits next to each other */
