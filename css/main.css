@@ -265,6 +265,7 @@ img {
   padding-right: 100px;
   align-content: center;
   justify-content: center;
+  max-width: 900px;
 }
 
 /* Create three equal columns that sits next to each other */
