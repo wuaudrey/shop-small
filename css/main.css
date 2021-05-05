@@ -73,6 +73,7 @@ p {
   text-align: center;
   display: block;
   max-width: 600px;
+  margin: auto;
 }
 
 a {
