@@ -6,6 +6,10 @@ html {
   box-sizing: border-box;
 }
 
+.description {
+  color: red;
+}
+
 ul {
   width: 300px;
   display: inline-block;
