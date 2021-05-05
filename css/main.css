@@ -272,6 +272,7 @@ hr {
 img {
   display: block;
   box-sizing: border-box;
+  max-width: 100%;
 }
 
 .row {
