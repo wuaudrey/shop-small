@@ -266,10 +266,10 @@ hr {
 /* Create three equal columns that sits next to each other */
 .column {
   flex: 33.33%;
-  padding: 1px;
+  padding: 0px;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 300px) {
   .column {
   width: 100%;
 }
