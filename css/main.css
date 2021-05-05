@@ -1,6 +1,7 @@
 html {
   font: 100%/1.15 'Cambay';
   scroll-behavior: smooth;
+  padding-top: 10px;
 }
 
 body {
