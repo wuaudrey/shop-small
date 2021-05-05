@@ -265,6 +265,7 @@ img {
   padding-right: 100px;
   align-content: center;
   justify-content: center;
+  text-align: center;
   max-width: 900px;
 }
 
@@ -275,6 +276,7 @@ img {
   border: 1.5px solid red;
   align-content: center;
   justify-content: center;
+  text-align: center;
 }
 
 @media screen and (max-width: 300px) {
