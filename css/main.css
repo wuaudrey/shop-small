@@ -273,7 +273,6 @@ img {
 .column {
   flex: 33.33%;
   padding: 5px;
-  border: 1.5px solid red;
   align-content: center;
   justify-content: center;
   text-align: center;
