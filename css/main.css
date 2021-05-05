@@ -3,6 +3,7 @@ html {
   scroll-behavior: smooth;
   padding-top: 20px;
   padding-bottom: 10px;
+  box-sizing: border-box;
 }
 
 ul {
@@ -104,7 +105,6 @@ hr {
   margin-left: 15em;
   margin-right: 5em;
   margin bottom: 5em;
-  
 }
   
 .box1 {
