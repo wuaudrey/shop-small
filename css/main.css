@@ -258,6 +258,9 @@ hr {
 
 .row {
   display: flex;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
 }
 
 /* Create three equal columns that sits next to each other */
