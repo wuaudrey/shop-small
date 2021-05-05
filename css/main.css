@@ -282,7 +282,6 @@ img {
 
 /* Create three equal columns that sits next to each other */
 .column {
-  display: flex;
   flex: 33.3%;
   padding: 5px;
   align-content: center;
