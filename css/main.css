@@ -255,7 +255,6 @@ hr {
 }
 
 img {
-  text-align: center;
   display: block;
   box-sizing: border-box;
 }
@@ -266,9 +265,7 @@ img {
   padding-right: 100px;
   align-content: center;
   justify-content: center;
-  text-align: center;
   max-width: 900px;
-  box-sizing: border-box;
 }
 
 /* Create three equal columns that sits next to each other */
@@ -277,10 +274,8 @@ img {
   padding: 5px;
   align-content: center;
   justify-content: center;
-  text-align: center;
   width: 350px;
   height: 350px;
-  box-sizing: border-box;
 }
 
 
