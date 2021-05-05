@@ -282,6 +282,7 @@ img {
   align-content: center;
   justify-content: center;
   max-width: 900px;
+  margin-bottom: 5px;
 }
 
 /* Create three equal columns that sits next to each other */
