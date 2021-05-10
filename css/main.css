@@ -65,7 +65,7 @@ h4 {
   padding-right: 5px;
 }
 
-.intro {
+div.intro {
   font-size: 15px;
   font-family: 'Cambay';
   color: white;
@@ -82,8 +82,9 @@ p {
   color: white;
   line-height: 1.5;
   text-align: center;
-  max-width: 900px;
+  max-width: 800px;
   display: block;
+  margin-left: auto
 }
 
 a {
