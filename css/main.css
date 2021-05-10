@@ -286,6 +286,7 @@ img {
   display: block;
   box-sizing: border-box;
   width: 100%;
+  max-width: 300px;
 }
 
 .row {
@@ -295,6 +296,8 @@ img {
   max-width: 1000px;
   padding: 0 5%;
   margin: 0 auto;
+  height: auto;
+  width: 100%;
 } 
 
 /* Create three equal columns that sits next to each other */
