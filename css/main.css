@@ -66,12 +66,12 @@ h4 {
 }
 
 .intro {
-  font-size: 20px;
+  font-size: 15px;
   font-family: 'Cambay';
   color: white;
   line-height: 1.5;
   text-align: center;
-  max-width: 900px;
+  max-width: 500px;
   display: block;
 }
 
