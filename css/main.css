@@ -283,7 +283,6 @@ img {
   display: block;
   box-sizing: border-box;
   width: 100%;
-  height: auto;
 }
 
 .row {
@@ -304,12 +303,6 @@ img {
   width: 350px;
   height: 350px;
 }
-
-@media screen and (max-width: 600px) {
-  .column {
-    flex: 100%;
-    max-width: 100%;
-  }
 
 .one {
   font-size: 15px;
