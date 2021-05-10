@@ -60,7 +60,7 @@ h5 {
   font-family: 'Cambay';font-size: 20px;
   text-transform: uppercase;
   text-align: right;
-  color: color: rgb(255, 74, 7);
+  color: rgb(255, 74, 7);
   padding-top: 5px;
   padding-right: 5px;
 }
@@ -101,18 +101,6 @@ hr {
   grid-template-columns: 250px 250px 250px 250px;
   grid-template-rows: 100px 100px 100px;
   line-height: .3;
-}
- 
-.box0 {
-  text-align: center;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  grid-column-start: 1;
-  grid-column-end: 5;
-  grid-row-start: 0;
-  grid-row-end: 1;
 }
 
 .box1 {
