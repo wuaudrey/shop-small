@@ -286,6 +286,7 @@ img {
   display: block;
   box-sizing: border-box;
   width: 100%;
+  height: auto;
   max-width: 300px;
 }
 
@@ -308,6 +309,7 @@ img {
   justify-content: center;
   width: 350px;
   height: 350px;
+  width: 100%;
 }
 
 .one {
