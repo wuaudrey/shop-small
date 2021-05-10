@@ -285,6 +285,7 @@ img {
 
 .row {
   display: flex;
+  flex-wrap: wrap;
   align-content: center;
   justify-content: center; 
   max-width: 1000px;
@@ -295,12 +296,19 @@ img {
 /* Create three equal columns that sits next to each other */
 .column {
   flex: 33.3%;
+  max-width: 33.3%;
   padding: 5px;
   align-content: center;
   justify-content: center;
   width: 350px;
   height: 350px;
 }
+
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
 
 .one {
   font-size: 15px;
