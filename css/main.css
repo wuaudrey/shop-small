@@ -114,10 +114,29 @@ hr {
   align-content: center;
   justify-content: center;
   
-  grid-template-columns: 250px 250px 250px 250px;
-  grid-template-rows: 100px 100px 100px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 0.7fr 0.7fr 0.7r;
   line-height: .3;
+  margin: auto;
+  
+  grid-template-areas: 
+    "one two three four"
+    "five six seven eight"
+    "nine ten eleven twelve";
 }
+
+@media (max-width: 700px){
+  .grid {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 0.7fr 0.7fr 0.7fr 0.7fr 0.7fr 0.7fr;
+     grid-template-areas: 
+       "one two"
+       "three four"
+       "five six"
+       "seven eight"
+       "nine ten"
+       "eleven twelve";
+  }
 
 .box1 {
   text-align: center;
@@ -126,10 +145,7 @@ hr {
   padding-bottom: 1rem;
   padding-left: 1rem;
   padding-right: 1rem;
-  grid-column-start: 1;
-  grid-column-end: 2;
-  grid-row-start: 1;
-  grid-row-end: 2;
+  grid-area: one;
 }
 
 .box2 {
@@ -138,11 +154,8 @@ hr {
   padding-top: 1rem;
   padding-bottom: 1rem;
   padding-left: 1rem;
-  padding-right: 1rem;
-  grid-column-start: 2;
-  grid-column-end: 3;
-  grid-row-start: 1;
-  grid-row-end: 2;   
+  padding-right: 1rem; 
+  grid-area: two;
 }
 
 .box3 {
@@ -152,10 +165,7 @@ hr {
   padding-bottom: 1rem;
   padding-left: 1rem;
   padding-right: 1rem;
-  grid-column-start: 3;
-  grid-column-end: 4;
-  grid-row-start: 1;
-  grid-row-end: 2;   
+  grid-area: three;
 }
 
 .box4 {
@@ -165,10 +175,7 @@ hr {
   padding-bottom: 1rem;
   padding-left: 1rem;
   padding-right: 1rem;
-  grid-column-start: 4;
-  grid-column-end: 5;
-  grid-row-start: 1;
-  grid-row-end: 2;   
+  grid-area: four;
 }
 
 .box5 {
@@ -178,10 +185,7 @@ hr {
   padding-bottom: 1rem;
   padding-left: 1rem;
   padding-right: 1rem;
-  grid-column-start: 1;
-  grid-column-end: 2;
-  grid-row-start: 2;
-  grid-row-end: 3;   
+  grid-area: five;
 }
 
 .box6 {
@@ -191,10 +195,7 @@ hr {
   padding-bottom: 1rem;
   padding-left: 1rem;
   padding-right: 1rem;
-  grid-column-start: 2;
-  grid-column-end: 3;
-  grid-row-start: 2;
-  grid-row-end: 3;   
+  grid-area: six;
 }
 
 .box7 {
@@ -204,10 +205,7 @@ hr {
   padding-bottom: 1rem;
   padding-left: 1rem;
   padding-right: 1rem;
-  grid-column-start: 3;
-  grid-column-end: 4;
-  grid-row-start: 2;
-  grid-row-end: 3; 
+  grid-area: seven;
 }
   
 .box8 {
@@ -216,11 +214,8 @@ hr {
   padding-top: 1rem;
   padding-bottom: 1rem;
   padding-left: 1rem;
-  padding-right: 1rem;
-  grid-column-start: 4;
-  grid-column-end: 5;
-  grid-row-start: 2;
-  grid-row-end: 3;  
+  padding-right: 1rem;  
+  grid-area: eight;
 }
 
 .box9 {
@@ -230,10 +225,7 @@ hr {
   padding-bottom: 1rem;
   padding-left: 1rem;
   padding-right: 1rem;
-  grid-column-start: 1;
-  grid-column-end: 2;
-  grid-row-start: 3;
-  grid-row-end: 4;  
+  grid-area: nine;
 }
 
 .box10 {
@@ -242,11 +234,8 @@ hr {
   padding-top: 1rem;
   padding-bottom: 1rem;
   padding-left: 1rem;
-  padding-right: 1rem;
-  grid-column-start: 2;
-  grid-column-end: 3;
-  grid-row-start: 3;
-  grid-row-end: 4;  
+  padding-right: 1rem;  
+  grid-area: ten;
 }
 
 .box11 {
@@ -255,11 +244,8 @@ hr {
   padding-top: 1rem;
   padding-bottom: 1rem;
   padding-left: 1rem;
-  padding-right: 1rem;
-  grid-column-start: 3;
-  grid-column-end: 4;
-  grid-row-start: 3;
-  grid-row-end: 4; 
+  padding-right: 1rem; 
+  grid-area: eleven;
 }
 
 .box12 {
@@ -269,17 +255,7 @@ hr {
   padding-bottom: 1rem;
   padding-left: 1rem;
   padding-right: 1rem;
-  grid-column-start: 4;
-  grid-column-end: 5;
-  grid-row-start: 3;
-  grid-row-end: 4; 
-}
-
-.box13 {
-  grid-column-start: 1;
-  grid-column-end: 5;
-  grid-row-start: 4;
-  grid-row-end: 7;
+  grid-area: twelve;
 }
 
 img {
