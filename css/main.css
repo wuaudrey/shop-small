@@ -115,7 +115,7 @@ hr {
   justify-content: center;
   
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-rows: 0.7fr 0.7fr 0.7r;
+  grid-template-rows: 0.7fr 0.7fr 0.7fr;
   line-height: .3;
   margin: auto;
   
